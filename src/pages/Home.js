@@ -1,7 +1,13 @@
 // Imports
 
+// Variables
+
+// Support Functions
+
+// Output Function
 export default function Home() {
     return (
-        <h1>Woah is this actually working? I sure hope so.</h1>
+        // function for logged in Y/N?
+        <h1>Vy. Share a spore with the world.</h1>
     )
 }
